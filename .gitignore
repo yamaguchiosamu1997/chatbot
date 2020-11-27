@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 
 /src.components.FormDialog.jsx
+
+../src/../components/FormDialog
